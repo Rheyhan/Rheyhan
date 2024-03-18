@@ -5,8 +5,8 @@ b. ratio imputation
 d. regression imputation
 
 2. Jika peubah respon (dependent variable)  Y dikorelasikan dengan peubah X1, X2 dan X3 (independent variables) memiliki korelasi masing-masing postitip, maka kalau diregresikan  dengan regresi linear berganda maka semua koefisien regresi juga pasti positip.
-`a. Salah`
-b. Benar
+a. Salah
+`b. Benar`
 
 3. Seorang peneliti melakukan penelitian untuk  membandingkan pengaruh jarak tanam terhadap produksi tanaman cabai. Penelitian ini tergolong dalam jenis penelitian:
 `a. Analitik, terapan, kuantitatif, dan eksperimental`
