@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" itemscope itemtype="http://schema.org/Article">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<base href="https://templatemo.com/" />
+<title>404 Not Found</title>
+<meta name="description" content="Error 404 - the page could not be found on templatemo website." />
+<meta property="og:type" content="article" />
+<meta property="og:headline" content="Error 404 - templatemo" />
+<meta property="og:title" content="Error 404 - templatemo" />
+<meta property="og:image" content="https://templatemo.com/banners/templatemo_600x400_2.jpg" />
+<meta property="og:site_name" content="templatemo" />
+<meta property="og:description" content="Error 404 - the page could not be found on templatemo website." />
+<meta property="og:url" content="https://templatemo.com/404-not-found" />
+<meta name="author" content="templatemo">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,600,500,300,700' rel='stylesheet' type='text/css'>
+<link href="/tm-style-20230508a.css" rel="stylesheet" type="text/css" />
+<link rel="publisher" href="https://plus.google.com/+templatemo"/>
+<link rel="canonical" href="https://templatemo.com/404-not-found" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-732601-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-732601-9');
+</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="templatemo-container">
+    <div id="top_section">
+    
+    	<div class="templatemo-logo">
+        	<a href="/" target="_parent"><img src="https://templatemo.com/images/templatemo-logo-new.png" alt="templatemo" title="templatemo" width="280" height="60" border="0" /></a>
+       	  	<h2 class="templatemo-slogan">Free HTML5 CSS Website Templates</h2>
+      	</div>
+        <div class="tm-menu">
+        	<a href="/page/1">Free Templates</a>
+            <a href="https://www.tooplate.com" rel="nofollow noopener">HTML Templates</a>
+            <a href="/contact">Contact</a>
+        </div>
+    	<div class="templatemo_clear"></div>
+        
+  </div>
+    
+<div class="templatemo_clear h20"></div>
+
+<div id="content_area">
+
+    <div id="one_column">
+        <div class="col2-360">
+
+<h1 class="title">HTTP Error 404 Not Found</h1>
+
+<p>The page cannot be found on templatemo website.</p>
+
+<p>Try searching your desired HTML CSS web template in Google Search with different keywords such as Portfolio Templates, TemplateMo One-Page, TemplateMo HTML Bootstrap 5 Templates, etc.</p>
+
+<div class="h20"></div>
+
+        </div>
+    </div>
+</div>
+
+<div id="footer">Copyright © 2008 - 2023 <a href="https://templatemo.com" title="TemplateMo">TemplateMo</a> - <a href="/about">About</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/contact">Contact</a> - <a href="/sitemap.xml">XML Sitemap</a></div>
+
+
+</div>
+
+
+</body>
+</html>
