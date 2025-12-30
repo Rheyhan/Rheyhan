@@ -26,4 +26,4 @@
 
 
 ## Music 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zaars16zskjxfob1hn6qbp9m3&width={300})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zaars16zskjxfob1hn6qbp9m3)
