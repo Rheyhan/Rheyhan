@@ -1,5 +1,5 @@
 # Hi there! 👋 
-![Jakarta](https://playing-with-fastapi.vercel.app/weather/jakarta)
+[<img align="top" src="https://weather-readme.vercel.app/api/weather" alt="Weather" width="100%"/>](https://openweathermap.org/city/1642911)
 
 ## 🚀 About Me
 
@@ -15,3 +15,4 @@
 - 
 
 ## 📊 GitHub Stats
+
