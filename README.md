@@ -1,14 +1,17 @@
-<h1 align="center"> ٱلسَّلَامُ عَلَيْكُمْ </h1>
+# Hi there! 👋 
+![Jakarta](https://playing-with-fastapi.vercel.app/weather/jakarta)
 
-* 🐈 Wsp i'm Rei
-* I do ML related things, uhh. Yea. 
+## 🚀 About Me
 
-I like data mining, image classification, and natural language processing.
+## 💻 Tech Stack
 
-Uhh, github profile's and its repositories are in the process on turning them to look more professional. 
+### Currently Learning:
 
-[![The stats](https://github-readme-stats.vercel.app/api?username=Rheyhan&show_icons=true&count_private=true)](https://github.com/Rheyhan)
+### Previous Experience:
 
+## 🌱 Current Focus
+- 
+- 
+- 
 
-
-
+## 📊 GitHub Stats
