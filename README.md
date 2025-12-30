@@ -4,18 +4,18 @@
 ## Skills 💪
 
 **Main Programming Languages**:  
-[<img align="top" alt="Python" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/python.svg?raw=true" />][python]
-[<img align="top" alt="R" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/R?raw=true" />][R]
-[<img align="top" alt="CPP" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/CPP?raw=true" />][CPP]
+[<img align="top" alt="Python" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/python.svg?raw=true" />][python]
+[<img align="top" alt="R" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/R.svg?raw=true" />][R]
+[<img align="top" alt="CPP" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/CPP.svg?raw=true" />][CPP]
 
 **Clouds**:  
-[<img align="top" alt="aws" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/aws.svg?raw=true" />][aws]
-[<img align="top" alt="gcp" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/gcp.svg?raw=true" />][gcp]
+[<img align="top" alt="aws" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/aws.svg?raw=true" />][aws]
+[<img align="top" alt="gcp" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/gcp.svg?raw=true" />][gcp]
 
 **OS**:  
-[<img align="top" alt="Windows" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/windows.svg?raw=true" />][windows]
-[<img align="top" alt="Ubuntu" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/ubuntu.png?raw=true" />][ubuntu]
-[<img align="top" alt="Android" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/master/icons/android.svg?raw=true" />][android]
+[<img align="top" alt="Windows" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/windows.svg?raw=true" />][windows]
+[<img align="top" alt="Ubuntu" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/ubuntu.png?raw=true" />][ubuntu]
+[<img align="top" alt="Android" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/android.svg?raw=true" />][android]
 
 
 ## GitHub Stats 📈
@@ -24,4 +24,5 @@
 
 ## Music 🎧
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zaars16zskjxfob1hn6qbp9m3)
+
 
