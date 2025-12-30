@@ -25,19 +25,5 @@
 [![Rheyhan's Github Stats](https://github-readme-stats-one-lovat.vercel.app/api?username=rheyhan&show_icons=true&include_all_commits=true&hide=stars,contribs&count_private=true)](https://github.com/rheyhan)
 
 
-## Music 🎧 & My day ⛱️
-
-<div
-  data-meteomatics-weather-widget="horizontal"
-  data-meteomatics-weather-widget-color="primary"
-  data-meteomatics-weather-widget-title="St. Gallen, Switzerland"
-  data-meteomatics-weather-widget-latitude="47.420153"
-  data-meteomatics-weather-widget-longitude="9.367273"
-  data-meteomatics-weather-widget-measurement-unit-temperature="celsius"
->
-  <a href="https://www.meteomatics.com">Meteomatics Weather Widget</a>
-</div>
-
-
-<link rel="stylesheet" href="https://widget.meteomatics.com/v2/meteomatics-weather-widget.css" />
-<script async src="https://widget.meteomatics.com/v2/meteomatics-weather-widget.js"></script>
+## Music 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zaars16zskjxfob1hn6qbp9m3&width={300})
