@@ -18,7 +18,6 @@
 [<img align="top" alt="Ubuntu" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/ubuntu.png?raw=true" />][ubuntu]
 [<img align="top" alt="Android" width="26px" src="https://github.com/Rheyhan/Rheyhan//blob/main/icons/android.svg?raw=true" />][android]
 
-
 ## GitHub Stats 📈
 [![Rheyhan's Github Stats](https://github-readme-stats-one-lovat.vercel.app/api?username=rheyhan&show_icons=true&include_all_commits=true&hide=stars,contribs&count_private=true)](https://github.com/rheyhan)
 
@@ -38,3 +37,4 @@
 [gcp]: https://cloud.google.com
 [ubuntu]: https://ubuntu.com
 [windows]: https://www.microsoft.com/en-us/windows
+
