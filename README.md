@@ -1,5 +1,6 @@
 # Hi there, I'm Rhey! 👋
 
+"what's gone make space for what is greater"
 
 ## Skills 💪
 
@@ -21,8 +22,19 @@
 ## GitHub Stats 📈
 [![Rheyhan's Github Stats](https://github-readme-stats-one-lovat.vercel.app/api?username=rheyhan&show_icons=true&include_all_commits=true&hide=stars,contribs&count_private=true)](https://github.com/rheyhan)
 
+## Current Focus 🌱
+- Generative Adversarial Networks From Scratch
+- Deployment Of A Fine Tuned LLM
+- Computer Vision Based Chess Solver
 
-## Music 🎧
+## Musics 🎧
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zaars16zskjxfob1hn6qbp9m3)
 
-
+[python]: https://www.python.org
+[CPP] : https://cplusplus.com/
+[R] : https://www.r-project.org/
+[android]: https://www.android.com
+[aws]: https://aws.amazon.com/elasticbeanstalk
+[gcp]: https://cloud.google.com
+[ubuntu]: https://ubuntu.com
+[windows]: https://www.microsoft.com/en-us/windows
