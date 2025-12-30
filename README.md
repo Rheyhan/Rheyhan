@@ -29,12 +29,14 @@
 ## Musics 🎧
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zaars16zskjxfob1hn6qbp9m3)
 
+
 [python]: https://www.python.org
-[CPP] : https://cplusplus.com/
-[R] : https://www.r-project.org/
+[CPP]: https://cplusplus.com
+[R]: https://www.r-project.org
 [android]: https://www.android.com
 [aws]: https://aws.amazon.com/elasticbeanstalk
 [gcp]: https://cloud.google.com
 [ubuntu]: https://ubuntu.com
 [windows]: https://www.microsoft.com/en-us/windows
+
 
